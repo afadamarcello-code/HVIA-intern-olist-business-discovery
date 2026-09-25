@@ -1,0 +1,1 @@
+Hi [Name], I was analyzing Olist's public e-commerce data to study marketplace friction and noticed a sharp link between delivery delays and 1-star reviews. I put together a brief visual analysis on this. 
