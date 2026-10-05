@@ -1,1 +1,9 @@
-Hi [Name], I was analyzing Olist's public e-commerce data to study marketplace friction and noticed a sharp link between delivery delays and 1-star reviews. I put together a brief visual analysis on this. 
+Hi Olist manager, I was analyzing Olist's public e-commerce data to study marketplace friction and noticed a sharp link between delivery delays and 1-star reviews. I put together a brief visual analysis on this.
+
+As part of a data strategy exercise with HVIA - Data & AI Solutions, I found that deliveries just 3 days late dropped review scores to an average of 1.8/5, and just 4% of sellers are driving 50% of platform sales.
+
+I put together a short 1-page summary and a Python notebook on how a predictive AI model could flag late deliveries before they happen. I've linked the summary here: https://github.com/afadamarcello-code/HVIA-intern-olist-business-discovery
+
+From an operational perspective, I'm curious—does the internal team currently use predictive modeling to adjust estimated delivery dates at checkout, or is that handled mostly by the marketplaces?
+
+Would love to hear your thoughts if you have a minute
